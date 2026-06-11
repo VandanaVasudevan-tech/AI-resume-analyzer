@@ -170,3 +170,33 @@ streamlit run app.py
 Model file omitted due to GitHub size limits.
 Download from:
 https://drive.google.com/drive/folders/1tMoupvBT2jv6SR88Je4jyoSODXOLxbbl?usp=drive_link
+
+
+---
+
+## Screenshots
+
+<img width="1797" height="702" alt="image" src="https://github.com/user-attachments/assets/a5d9516d-3ce8-488f-9a1e-a439e5759769" />
+
+
+<img width="1822" height="846" alt="image" src="https://github.com/user-attachments/assets/5337329e-82f2-41a4-913e-914d7864e84b" />
+
+<img width="1877" height="641" alt="image" src="https://github.com/user-attachments/assets/df158ea0-41a6-448d-967e-239e6d4e1837" />
+
+<img width="1852" height="892" alt="image" src="https://github.com/user-attachments/assets/17a38991-8e6d-4c7c-ab18-f20e107d3a0c" />
+
+<img width="1837" height="801" alt="image" src="https://github.com/user-attachments/assets/d23d6662-0ee0-4d96-a2be-10ed221a8314" />
+<img width="1702" height="107" alt="image" src="https://github.com/user-attachments/assets/1eb8d9b4-2947-41bc-90c1-38ea48a84941" />
+
+
+<img width="1855" height="732" alt="image" src="https://github.com/user-attachments/assets/6dbb509d-22a3-4bd5-8927-df3d7f13d4dd" />
+
+
+
+
+
+
+
+
+
+---
